@@ -1,1 +1,1 @@
-# lac_releases
+# lac! - A simple rhythm game!
